@@ -1,0 +1,18 @@
+{
+    "print" : "print(' ')",
+    "function" : "def functionName(args):\n",
+    "import" : "import module\n",
+    "import from" : "import method from module\n",
+    "integer" : "int()",
+    "string" : "str()",
+    "float" : "float()",
+    "input" : "input('')",
+    "input integer" : "int(input(''))",
+    "input string" : "str(input(''))",
+    "input float" : "float(input(''))",
+    "for loop" : "for i in range(0, variable):\n",
+    "while loop" : "while conditional_statement:\n",
+    "if statement" : "if conditional_statement:\n",
+    "class" : "class ClassName:\ndef __init__(self, args):\n",
+    "try statement" : "try:\n\nexcept Exception e:\n\nfinally:\n"
+}
