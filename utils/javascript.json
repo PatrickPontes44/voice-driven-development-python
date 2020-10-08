@@ -1,0 +1,13 @@
+{
+    "console log" : "console.log('');",
+    "function" : "function functionName(args){\n\n}",
+    "variable" : "let varName = ;",
+    "constant" : "const constName = ;",
+    "for loop" : "for(let i = 0; condition_statement; increment){\n\n}",
+    "while loop" : "while(conditional_statement){\n\n}",
+    "if statement" : "if(conditional_statement){\n\n}",
+    "if else" : "if(conditional_statement){\n\n}else{\n\n}",
+    "class" : "class ClassName:{\n\n}",
+    "query selector" : "document.querySelector('element');",
+    "get by id" : "document.getElementsById('element');"
+}
